@@ -59,6 +59,6 @@ Example: Bolivia → David Warner → david@gmail.com.
 3. Format and add icons/illustrations for better visualization.  
 4. Use contacts section for communication with managers.  
 
-Created by Nouseed Shaikh
-📧 Email: nouseedshaikh746@gmail.com 
-🔗 LinkedIn: www.linkedin.com/in/nouseed-shaikh  
+Created by Nouseed Shaikh 
+ 📧 Email: nouseedshaikh746@gmail.com 
+ 🔗 LinkedIn: www.linkedin.com/in/nouseed-shaikh  
