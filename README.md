@@ -61,5 +61,4 @@ Example: Bolivia → David Warner → david@gmail.com.
 
 Created by Nouseed Shaikh  
  📧 Email:nouseedshaikh746@gmail.com 
-
- 🔗 LinkedIn:www.linkedin.com/in/nouseed-shaikh  
+🔗  LinkedIn:www.linkedin.com/in/nouseed-shaikh  
